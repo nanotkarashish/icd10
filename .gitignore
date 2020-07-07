@@ -5,7 +5,6 @@
 *~
 node_modules
 backup
-dist
 .tmp
 .sass-cache
 aws-keys.json
