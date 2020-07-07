@@ -8,4 +8,3 @@ backup
 .tmp
 .sass-cache
 aws-keys.json
-app/data/*.json
